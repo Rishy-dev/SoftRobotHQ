@@ -1,0 +1,2 @@
+pillow>=10.0.0 # for image handling if needed
+numpy>=1.26.0 # for math or array operations
