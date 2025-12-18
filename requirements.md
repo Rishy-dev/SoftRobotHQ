@@ -7,7 +7,7 @@ This file lists all Python packages required to run the Soft Robot HQ simulation
 Run the following command to install all dependencies:
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirements/base.txt -r requirements/dev.txt -r requirements/optional.txt
 ```
 
 ## Requirements
