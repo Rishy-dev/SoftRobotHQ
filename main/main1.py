@@ -1,6 +1,6 @@
 from ursina import *
 from player import Player
-from robot import SoftRobot
+from soft-robot import SoftRobot
 from privacy import PrivacySystem
 from building import Building
 
